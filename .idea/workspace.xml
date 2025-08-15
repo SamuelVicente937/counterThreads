@@ -1,8 +1,1064 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.CounterWThreads</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4214eb4b-6ca3-4e57-8d11-76506cef0bb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD-II/Practica2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/businessinfo/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/datatypes/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/datatypes/subviews/EFABB628-50A0-D630-1C18-355BFE906E6A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/Logical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/entity/seg_0/19CF1648-B51B-0A87-DDFE-0603991EA1C2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/entity/seg_0/84076251-BFA9-9AE4-B373-373931355860.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/relation/seg_0/257CB0C2-7690-ECBA-1E18-1036499E9B5E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/relation/seg_0/6989A1EA-7C25-4002-1875-771F89F06FF3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/relation/seg_0/86036545-79CC-5301-5618-96519606B0CB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/relation/seg_0/B6DC281B-C9AA-CB40-212E-544DAB10D85C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/logical/subviews/1E5F21B7-F648-C10B-361A-6D96CFB5CC7D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/mapping/DeletedMap_RM887F1B16-E320-D8DA-9575-D40112DEA324.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/mapping/ExtendedMap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/mapping/ExtendedMap_RM887F1B16-E320-D8DA-9575-D40112DEA324.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/pm/Process Model.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rdbms/1er Ejer_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/foreignkey/seg_0/22C7E658-55B7-E844-F58C-3825999ACF62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/foreignkey/seg_0/7C9179E3-A43C-7856-B6C1-DCC3532C1641.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/foreignkey/seg_0/FF778B27-4666-6E11-8866-F0A2EAA09E71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/subviews/BE3E4B67-124F-6B76-39B6-F4F4AEA8B7D3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/table/seg_0/04DECF8E-8A8A-64A4-9DFB-B63837DB7137.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/1er Ejer/rel/887F1B16-D40112DEA324/table/seg_0/7B6B6663-F29E-3A38-4189-AE5C6FA58D0C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer.dmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/businessinfo/Business Information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/businessinfo/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/datatypes/DataTypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/datatypes/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/datatypes/structuredtype/seg_0/47E390DE-0671-C4B1-8428-0F45CBEE18F8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/Logical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/entity/seg_0/35EE13B6-4335-0A85-3A12-E1594141E82D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/entity/seg_0/750FEC55-7E1C-0B55-7DAD-386F001A7A75.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/entity/seg_0/9B1EC78A-E9D7-A353-4A76-570E666F8D0B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/entity/seg_0/A71A2C53-44E8-D8C3-789F-4340A6F8ED42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/entity/seg_0/F3DCE551-0762-205E-A446-53EFF17B5DEC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/22F1BF2C-822E-D6D4-1464-653E5A0C9F18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/4D6B4851-0E5F-C97B-40FE-70DE88B203A5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/75C3E30E-8020-26DA-5504-3CF7DE71A131.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/928857A5-1504-8273-F4AA-D0AD05586D79.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/944B2B7E-0550-7FC4-52FD-091CB73ED8CE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/relation/seg_0/B84762C1-01A6-1EC6-1926-7CFF53152760.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/logical/subviews/543C625F-EC94-670E-5747-2C1CC9A8FE0D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/mapping/ExtendedMap_RM35FEFD96-CA8F-2057-9FDC-6FF5CBEF4183.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rdbms/2doejer_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/foreignkey/seg_0/0AB5D22A-526D-9C21-53F9-8E29A5BB7596.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/foreignkey/seg_0/5E61439A-5E23-B2FF-7028-3A7DC177C43B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/foreignkey/seg_0/641373AF-B6BB-60FB-0BEB-C197A1E5B525.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/foreignkey/seg_0/665F6E2B-D2A6-252F-09C5-EFDDAB6FB698.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/foreignkey/seg_0/F67A72C7-23DF-3960-86AD-E2E5C01E1AFE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/table/seg_0/2C99356D-C21A-9A03-3776-E0B7120558E2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/table/seg_0/A2F6EC8A-4529-0AE3-D911-775AE4C970B2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/2doejer/rel/35FEFD96-6FF5CBEF4183/table/seg_0/BD2F6A23-2881-FA2D-695C-F3C922677812.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer.dmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/businessinfo/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/datatypes/DataTypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/datatypes/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/datatypes/structuredtype/seg_0/47E390DE-0671-C4B1-8428-0F45CBEE18F8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/datatypes/structuredtype/seg_0/F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/dl_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/entity/seg_0/A19B9F26-A3F8-8A53-C332-95A5448FCB77.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/entity/seg_0/D35D3961-4F33-ED40-FA85-AFD653A33391.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/entity/seg_0/F6394D64-2DCF-C2CF-59E1-9D3D1B7069A0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/relation/seg_0/82CFC191-783A-E4D7-2420-C98BE8A7A404.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/relation/seg_0/8B490995-EFC9-8173-D6B4-541B2F15452D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/relation/seg_0/BA5F7217-2E46-A438-E1AA-84D350806283.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/logical/subviews/87AA9B70-2FDF-1809-81B9-22DB132FB0A6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/mapping/DeletedMap_RM9FB3D952-6499-800C-958E-8C53FA73E16F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rdbms/3erEjeer_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/foreignkey/seg_0/1E84F6E0-EBA2-AB38-1F55-D3493DF9D19A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/foreignkey/seg_0/2CDF2451-BA8F-0880-57B2-D4C60FFE2F6D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/foreignkey/seg_0/33ECF17B-7C96-1A97-1990-D4B6B8762D95.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/foreignkey/seg_0/F4829F98-2228-EDBB-5C18-B6AC3911AC77.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/table/seg_0/25A17671-D4D0-2653-CDAE-6BB056E8563A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/table/seg_0/2BCA5342-E040-BF1D-C123-E9C2A048AFA0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/3erEjeer/rel/9FB3D952-8C53FA73E16F/table/seg_0/9D3F4FC1-40B4-82C6-87C0-DA23ABD1ECC5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/datatypes/structuredtype/seg_0/47E390DE-0671-C4B1-8428-0F45CBEE18F8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/datatypes/structuredtype/seg_0/F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/Logical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/entity/seg_0/3C7407D9-8964-13DB-F037-2CF299CB7009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/entity/seg_0/8049D651-3FEC-986B-13B9-BD586FC114C7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/entity/seg_0/A7CDBF19-14A5-021C-5283-3DEC354E5E02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/entity/seg_0/F538CAFE-0193-3B56-EF33-93B043E97E53.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/relation/seg_0/4580BF91-5481-6288-6C61-037AEBFCF522.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/relation/seg_0/49295652-E7AF-B1FE-5352-9FC80BE66909.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/relation/seg_0/75360F32-452C-BB1D-FB3A-D921FDD216D8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/relation/seg_0/AC2D4873-B1E5-9A1A-706E-002D881516FE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/relation/seg_0/E071837B-A62E-70B8-A06E-975E1EAE4F34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/logical/subviews/4B6AAA3B-9090-C7BF-F3B2-1C21D93851A9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/mapping/ExtendedMap_RMEAF94C23-1EBC-6400-2102-D93939FC34AE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rdbms/4ejer_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/foreignkey/seg_0/449F51F9-991A-3744-67D3-C4F38D2396DE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/foreignkey/seg_0/7E43AB39-C1E0-71BA-7E83-FB3D9E76068D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/table/seg_0/539BC469-BF78-70BD-C8B5-1134ED401A56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/table/seg_0/95F82E37-8D57-9E76-28F8-EF354FAD8C5E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/table/seg_0/A2F8887E-7505-3BBB-4350-26196CAED08D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/table/seg_0/BB01ED0F-B474-F50A-19EE-E6AF5B5E99B5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/4ejer/rel/EAF94C23-D93939FC34AE/table/seg_0/E540745B-827A-07E3-83D2-294173CD3DA7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer.dmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/ChangeRequests.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/businessinfo/Business Information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/datatypes/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/datatypes/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/datatypes/structuredtype/seg_0/47E390DE-0671-C4B1-8428-0F45CBEE18F8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/datatypes/subviews/B42B2459-DCBC-EBDB-E8FF-C86958832A54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/dl_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/entity/seg_0/24A15751-7ADD-8600-8005-E94218B412BC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/entity/seg_0/85F8D467-D7C3-6DA6-E15B-A2FBF7F31656.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/entity/seg_0/94538CAA-22C5-14CD-6A71-0500BEC53580.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/entity/seg_0/9A13B5D9-11D8-DBFD-B159-0B19320EA8A3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/inheritance/seg_0/57D08724-016E-A19C-072E-AC1652109703.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/inheritance/seg_0/7EFF5BC1-881D-2E78-EEF7-9A7CE08DEF2F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/relation/seg_0/63AB2558-7671-FA29-F463-6AD6CD3377A0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/relation/seg_0/A8D22D4E-057E-236A-7FA3-36810A706166.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/relation/seg_0/AD9FECC3-3E63-E3F1-80E7-49E8B2700BE0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/relation/seg_0/D79696EF-3DA3-6E7E-AEC1-A2585FE55EEE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/logical/relation/seg_0/E600AA46-375E-9731-E776-7506A0B634AE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/pm/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/arc/seg_0/1244EA7A-E4F2-21CC-A6E3-194B6A3BCB2E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/foreignkey/seg_0/14BBD096-4234-AD60-90CE-0F72C64929FC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/foreignkey/seg_0/8A511B70-3DE9-6FBC-FEA1-FCD478EA61F7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/foreignkey/seg_0/CA095794-2CEA-D1F1-AA1C-0F7F431B0A1D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/foreignkey/seg_0/E6B53608-3239-D4B6-1D02-C75E6516D5FF.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/foreignkey/seg_0/EE649E90-4CD2-AD04-A04F-4FE6E3D9E74D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/table/seg_0/000438E9-2450-B595-810F-04BAF2CB973E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/table/seg_0/08408880-AB44-CFD5-B6CD-F65CCD8D3E75.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/5ejer/rel/36CEE9D6-372C6E38760A/table/seg_0/E1155735-4A81-7E7D-821C-3C9E55B1AF3B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer.dmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/datatypes/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/datatypes/DataTypes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/datatypes/structuredtype/seg_0/F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/datatypes/subviews/15630155-B1F0-635D-FD4D-0236818BA818.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/entity/seg_0/80A7A98A-266D-3027-F4C4-169CF7513A9A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/entity/seg_0/AD04F392-6B61-DE4F-9652-D30DF7A88C08.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/relation/seg_0/34D733D8-CE4B-5BEF-6463-97AF112793D8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/relation/seg_0/53087CC8-34E1-877C-A31A-47D6C9CB310E.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/relation/seg_0/8991EDE3-66AA-50C8-A9DE-0159543606F8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/relation/seg_0/9EA39BDD-BA35-1028-8E58-44D97762F029.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/logical/subviews/BD6D5C66-B0F1-ED84-9126-54107AD6C59D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rdbms/6toejer_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/DDLSelection.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/foreignkey/seg_0/5ECD0E6A-9DEF-F7AA-0805-9AAADC04AF01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/foreignkey/seg_0/6B6DEF8D-0935-DBE6-AEA8-F33F4CEC3181.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/foreignkey/seg_0/7ED11D94-82B6-03A8-1693-148FEFB7FD34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/subviews/9596C24B-986B-3765-B34A-E9FD816E4970.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/039586F5-26B6-BD0D-31FA-9378AB2A250D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/0C9D8B6F-E191-193F-962B-16D61DEEF1F5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/1A264D8F-4B60-A213-226F-8F617EA8F63D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/5E985169-7EAE-AF21-EB39-C3A298439A97.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/A05363C6-70C8-9E44-8B0B-225172484A1C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/6toejer/rel/C99E36A3-F0FADB139650/table/seg_0/BE11578C-B642-542A-120B-92086098F78C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases.dmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/datatypes/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/datatypes/structuredtype/seg_0/F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/dl_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/Objects.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/entity/seg_0/3496FA4F-6B25-B4C7-05C3-CCCF8DFA6A07.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/entity/seg_0/40549547-DE14-7457-58E4-33C85EA38440.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/entity/seg_0/505099C5-8279-5C78-DCB2-75AE132AB35F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/entity/seg_0/57C3C479-0CBB-ABE6-F128-CEC2D99069C9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/entity/seg_0/C0664A34-EE37-60CD-CF63-951B28888DBD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/inheritance/seg_0/9E538821-0266-6ED2-1CE6-CBE8266A7534.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/relation/seg_0/36DE0AB2-4CA8-A0B5-5D08-AACCA36608D3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/relation/seg_0/DE6532F2-1237-5301-0BEA-9779EB4CAA21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/relation/seg_0/F1D40E64-3601-765E-CA54-BE0A4944CAA1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/logical/subviews/7ECB09B4-67E5-1975-BE0B-1FA9720123EF.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/mapping/DeletedMap_RM3EFE63E1-96C9-61B3-C32A-25259813D89F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/mapping/ExtendedMap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rdbms/proyectoBases_RDBMSSites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/Diagrams.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/arc/seg_0/CBE86E06-A1DC-5677-96F3-F55D746716DE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/foreignkey/seg_0/37730AA0-7916-16A7-5966-2F7DA41C161F.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/foreignkey/seg_0/3B2191EF-86EE-C5D9-3AD4-74ABB398A45B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/foreignkey/seg_0/A25502DA-587C-0117-90C1-5C5D4DBF5F34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/foreignkey/seg_0/B11AF13E-3C6A-BFB0-DA8B-292FFE619C70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/081E0453-F920-DD02-A66C-0B9028D87FF0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/33F0704A-576E-B5ED-BC25-CE0DEF398CF1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/858A419B-7818-B01C-D71B-5AA2DBB03343.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/864330D1-D372-C1AC-086A-7A30CAEB2E8A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/9665C1E0-FBC9-EB3D-4AD7-90F088A7E6CD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/BC9958B9-C684-B6B5-6764-26D2C3EE570C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/DE24EE03-7DA9-6AF5-66EA-189C9DCA8799.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bases 2do/proyectoBases/rel/3EFE63E1-25259813D89F/table/seg_0/E944C26A-7138-1144-AF57-743DC8F27550.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/AutoAprendizaje2/FileContentIndex/04e2ba41-fb12-4e01-a3ce-7a2e2fc82c05.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/AutoAprendizaje2/FileContentIndex/47df6a52-d764-4a37-8daf-14ad713ae2b5.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/AutoAprendizaje2/FileContentIndex/5b3fd314-62a1-43fd-a598-6b6f9c82ec49.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/AutoAprendizaje2/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/AutoAprendizaje2/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/.vs/ProjectEvaluation/autoaprendizaje2.projects.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/Autobus.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/Motocicleta.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/OpDiarias.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/Vehiculo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/bin/Debug/net8.0/AutoAprendizaje2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/bin/Debug/net8.0/AutoAprendizaje2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/AutoAprendizaje2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/AutoAprendizaje2.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/AutoAprendizaje2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/AutoAprendizaje2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/AutoAprendizaje2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/AutoAprendizaje2.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/AutoAprendizaje2/AutoAprendizaje2/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/.vs/Fibonacci/FileContentIndex/73f5cdb8-a2ab-4d6a-b8c9-34517c997a91.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/.vs/Fibonacci/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/.vs/Fibonacci/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/.vs/ProjectEvaluation/fibonacci.projects.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/.vs/ProjectEvaluation/fibonacci.strings.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/ref/Fibonacci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Debug/net5.0/refint/Fibonacci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Fibonacci.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/Fibonacci/Fibonacci/obj/Fibonacci.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/POOpracAE/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/POOpracAE/FileContentIndex/24601569-54e3-4dc7-8b0e-36f79c03530a.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/POOpracAE/FileContentIndex/a0ed0224-feda-4776-9131-c20fa766fdea.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/POOpracAE/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/POOpracAE/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/.vs/ProjectEvaluation/poopracae.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/POOpracAE.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/POOpracAE/obj/Debug/net5.0/POOpracAE.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/POOpracAE/obj/POOpracAE.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/POOpracAE/obj/POOpracAE.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOpracAE/POOpracAE/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/2f82f63c-57da-44c8-8702-dd3ad7402072.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/43ea3baa-4d54-440c-9eef-073ca29fe1c2.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/5185f025-2522-4fa2-8408-bc6ae007364a.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/7f6b0a2f-fea8-45a7-a4fc-f6c04d16e2d5.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/8afcd6a7-4840-45a5-8aae-fc2b3c63f344.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/FileContentIndex/d77e2ac6-91da-441b-bbef-2b7aa269c617.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/.vs/POOrestaurante/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/Empleado.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/Mesero.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/Plato.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/PlatoNormal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/bin/Debug/net5.0/POOrestaurante.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/bin/Debug/net5.0/POOrestaurante.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/bin/Debug/net5.0/POOrestaurante.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/Debug/net5.0/POOrestaurante.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/Debug/net5.0/POOrestaurante.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/Debug/net5.0/POOrestaurante.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/Debug/net5.0/ref/POOrestaurante.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/POOrestaurante.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/POOrestaurante.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestaurante/POOrestaurante/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/FileContentIndex/1fb506bb-6115-4da5-be2f-81e18c61f61d.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/FileContentIndex/7cb443f0-ee8b-4d35-afc9-eb77f6328d2c.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/FileContentIndex/843543b2-5921-4680-9ee0-192dfeea8975.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/FileContentIndex/bd2213e3-3f0d-4a2c-be4a-d3b1546f81d2.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/POOrestauranteprac/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/ProjectEvaluation/poorestauranteprac.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/.vs/ProjectEvaluation/poorestauranteprac.strings.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/Cocinero.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/Menu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/Mesero.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/Plato.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/PlatoEspecial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/PlatoNormal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/Debug/net5.0/POOrestauranteprac.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/Debug/net5.0/POOrestauranteprac.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/POOrestauranteprac.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/POOrestauranteprac.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/POOrestauranteprac/POOrestauranteprac/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/.vs/PatronesFiguras/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/.vs/PatronesFiguras/FileContentIndex/2fdc20fa-b1be-4f73-95c4-8f161205b46f.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/.vs/PatronesFiguras/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/.vs/PatronesFiguras/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/.vs/ProjectEvaluation/patronesfiguras.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/bin/Debug/net5.0/PatronesFiguras.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/bin/Debug/net5.0/PatronesFiguras.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/bin/Debug/net5.0/PatronesFiguras.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/PatronesFiguras.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/PatronesFiguras.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/PatronesFiguras.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/PatronesFiguras.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/PatronesFiguras/PatronesFiguras/obj/Debug/net5.0/ref/PatronesFiguras.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/.vs/ProjectEvaluation/tareaurgente.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/.vs/ProjectEvaluation/tareaurgente.projects.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/.vs/TareaUrgente/FileContentIndex/c6c3fa87-d09b-45a3-9dd3-5496ecca6fd3.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/.vs/TareaUrgente/FileContentIndex/fe339204-8730-4af4-b35e-9f37769eeb38.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/.vs/TareaUrgente/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/TareaUrgente.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/Torneo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/bin/Debug/net5.0/TareaUrgente.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/bin/Debug/net5.0/TareaUrgente.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/bin/Debug/net5.0/TareaUrgente.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/Debug/net5.0/TareaUrgente.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/Debug/net5.0/TareaUrgente.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/Debug/net5.0/TareaUrgente.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/Debug/net5.0/TareaUrgente.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/TareaUrgente.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C#/TareaUrgente/TareaUrgente/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CygUtils.plugin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CygUtils64.plugin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fortnite.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/ejem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/practicas-1/ejercicio1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/practicas-1/fondo-ejercicio1.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/practicas-1/fondo.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/practicas-1/style-ejercicio1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/Sopademani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/bizcocho-vainilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/brazo-gitano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/cubierto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/ensalada-cesar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/ensalada-de-pollo-manzana-y-apio.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/fondo-texto.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/helado_de_oreo_casero_58818_600_square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/majadito.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/milanesa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/milanesa_napo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/reloj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/sajta-de-pollo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/sombrero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/sopa-de-cebolla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/Imagnes recetas/sopa-de-pollo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/fondo-consejos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/fondo-menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/menus/consejos,.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/menus/contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/menus/menu-sopas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/menus/menus-postres.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/recetas/ensalada-griega.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/recetas/ensalada-rusa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/recetas/pique-macho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/recetas/silpancho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/style-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML/web_cocina/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/JSE15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/JSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/clases.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/contenido14125.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/cuestionario5part2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/desestructuracionPropagacion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/dom2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/escucha eventos/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/examenfinal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSE15/proyectosIntegradores/rickMorty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/java1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/fondo-colorido-letras-numeros_150234-118803.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/fondo-preguntas_23-2148159239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/gameover.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/inmersion-dev-aula1-Proyecto-Base/assets/img/Ruido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/inmersion-dev-aula1-Proyecto-Base/assets/img/candado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/inmersion-dev-aula1-Proyecto-Base/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/inmersion-dev-aula1-Proyecto-Base/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/logotipo-empresa-negocios-supermercado-organico_23-2148462396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/proyecto2/animacionvideo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/proyecto2/peppa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/proyecto2/progra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/proyecto2/pruebastyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/proyecto2/webada2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/styleproyec.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/styleproyec2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/Sopademani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/avatars-72LnI0dz9nvptDQt-EM9zBQ-t240x240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/bizcocho-vainilla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/chairo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/ensalada-rusa.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/fondo-texto.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/helado_de_oreo_casero_58818_600_square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/silpancho.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/sopa-de-camarones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/Imagnes recetas/sopa-de-cebolla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/consejos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/fondo-consejos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/fondo-menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/fondo_contacto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/fondo_recetas.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/fondoo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/menus/menu-ensaladas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/menus/menu-sopas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/pag_principal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/chairo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/ensalada-lechuga-tomate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/milanesa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/pique-macho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/sajta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/sopa-de-camarones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/recetas/sopa-de-cebolla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/ser_fondo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/web_cocina/style_recetas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/xddd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-0.scoreboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s002.vmdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s003.vmdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s004.vmdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s005.vmdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s006.vmdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit.nvram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit.scoreboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/mksSandbox-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/mksSandbox-1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinuxServer/mksSandbox.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Muck.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/.vs/Prac2Prog/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/.vs/Prac2Prog/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/.vs/Prac2Prog/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/.vs/ProjectEvaluation/prac2prog.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/Prac2Prog/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/Prac2Prog/Prac2Prog/obj/Debug/net5.0/Prac2Prog.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/.vs/ProjectEvaluation/shellsort.strings.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/.vs/shellSort/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/ref/shellSort.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/refint/shellSort.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/shellSort.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/shellSort.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/shellSort.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Cilindro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Cono.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Cubo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Esfera.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Piramide.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/java/com/example/calcu3d2/Prisma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/res/drawable/cuboprueba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/res/drawable/piramideprueb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calcu3d2/app/src/main/res/drawable/prismaprueba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/java/com/example/calcua11/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/app/src/test/java/com/example/calcua11/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuA11/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibre/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/8.10.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/8.10.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcuLibreria/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/java/com/example/calculageo2/circulo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/java/com/example/calculageo2/cuadrado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/java/com/example/calculageo2/pentagono.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/java/com/example/calculageo2/rombo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/java/com/example/calculageo2/triangulo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/circimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/circuloimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/cuadimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/cuadradoej.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/cuadrafin1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/cuadrafinal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/pentagonoimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/pentimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/recurso_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/recurso_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/recurso_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/recurso_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/recurso_9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/rombimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculaGeo/app/src/main/res/drawable/triaimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/src/main/java/com/example/calculadoralibreria202/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/app/src/test/java/com/example/calculadoralibreria202/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/androidTest/java/com/example/practicaprogmovil/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/main/java/com/example/practicaprogmovil/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/app/src/test/java/com/example/practicaprogmovil/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaProgMovil/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/Test1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/androidTest/java/com/example/test1/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/src/androidTest/java/com/example/test2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/src/main/java/com/example/test2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/8.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/8.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/java/com/example/tresenraya/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/res/drawable/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/res/drawable/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRaya/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/androidTest/java/com/example/tresenrayagit/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/java/com/example/tresenrayagit/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/drawable/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/drawable/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/app/src/test/java/com/example/tresenrayagit/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaGit/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/java/com/example/tresenrayav2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/drawable/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/drawable/ogana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/drawable/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/drawable/xgana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TresEnRayaV2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/animaciones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/animacioness.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/cacl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/condicionales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/custom-properties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/custom-properties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/filtros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/fusiones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/pseudoclases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/scroll-snap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/scroll-snap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrograWebII/transiciones.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Roblox Studio.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SECUENCIAL 2 OCTUBRE.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SO/ARRANQUE DUAL.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Visual Studio 2022.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/.vs/WFP 1/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/.vs/WFP 1/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/Datos/Producto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/WFP 1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/Window2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/bin/Debug/WFP 1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1_Content.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1_MarkupCompile.i.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP 1/WFP 1/obj/Debug/WFP 1_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/.vs/WFP2/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/WFP2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/bin/Debug/WFP2.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/bin/Debug/WFP2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/MainWindow.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/WFP2.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/WFP2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/WFP2_MarkupCompile.i.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WFP2/WFP2/obj/Debug/WFP2_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/.vs/WpfAppElementosContenedores2/FileContentIndex/f2e87858-9f35-48a5-912c-63a318407250.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/WpfAppElementosContenedores2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/bin/Debug/WpfAppElementosContenedores2.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/bin/Debug/WpfAppElementosContenedores2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/MainWindow.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2_MarkupCompile.i.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2_MarkupCompile.i.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppElementosContenedores2/WpfAppElementosContenedores2/obj/Debug/WpfAppElementosContenedores2_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/.vs/WpfAppProyecProgra/FileContentIndex/862b1b89-674d-42f6-9a9d-d6ea777535a0.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/.vs/WpfAppProyecProgra/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/.vs/WpfAppProyecProgra/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/WpfAppProyecProgra.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/obj/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfAppProyecProgra/WpfAppProyecProgra/obj/Debug/WpfAppProyecProgra.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/ProjectEvaluation/wpfingresoprodcutosprogwebii.metadata.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/ProjectEvaluation/wpfingresoprodcutosprogwebii.strings.v9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v17/DocumentLayout.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/.vs/WpfIngresoProdcutosProgWebII/v17/.wsuo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/Win2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/bin/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/imgs/OUT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/imgs/guardar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/imgs/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/imgs/limpiar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/imgs/salir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/Win2.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII.designer.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_2ne54xa1_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_2ne54xa1_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_MarkupCompile.i.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_y1swqfrw_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_y1swqfrw_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_y1swqfrw_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/WpfIngresoProdcutosProgWebII_y1swqfrw_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Debug/net5.0-windows/ref/WpfIngresoProdcutosProgWebII.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Release/net5.0-windows/WpfIngresoProdcutosProgWebII.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/Release/net5.0-windows/WpfIngresoProdcutosProgWebII_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/WpfIngresoProdcutosProgWebII.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/WpfIngresoProdcutosProgWebII.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WPF/WpfIngresoProdcutosProgWebII/WpfIngresoProdcutosProgWebII/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Word.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../activador windows y office.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/Contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/analisis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/animacion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/imgs/marketing.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/imgs/programacion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/marketing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/pagsservicios.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prooyecfinal/proyecto2/proyecto2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/Contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/Estilo vida.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/analisis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/consultoria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/escritura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/imgs/consultoria.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/imgs/marketing.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/imgs/programacion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/pagsservicios.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyec/proyecto2 (1)/proyecto2/programacion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/RESTAURANTE GRUPO/Mi-video5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/RESTAURANTE GRUPO/Reservas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/RESTAURANTE GRUPO/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/Contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/analisis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/consultoria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/imgs/animacion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/imgs/escritura.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecServLinux/proyectos/proyecto2/programacion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/Contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/analisis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/imgs/animacion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/imgs/escritura.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/imgs/marketing.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../proyecfinal/proyecto2/pagprincipal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncourse/KeyLogger/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncourse/KeyLogger/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncourse/KeyLogger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncourse/KeyLogger/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-1.scoreboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-1.scoreboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s001.vmdk" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit-s001.vmdk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit.vmdk" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinuxServer/Ubuntu 64-bit.vmdk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinuxServer/vmware-0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinuxServer/vmware-0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinuxServer/vmware-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinuxServer/vmware-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MobaXterm backup.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../MobaXterm backup.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/.vs/shellSort/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/.vs/shellSort/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/bin/Debug/net5.0/shellSort.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrograIII/shellSort/shellSort/obj/Debug/net5.0/shellSort.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calcu/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calcu/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcuA11/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcuA11/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalcuLibreria/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CalcuLibreria/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculadoraLibreria202/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaProgMovil/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TresEnRayaV2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TresEnRayaV2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=72264dbe)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="counterWThreads" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.13-bin/5xuhj0ry160q40clulazy9h7d/gradle-8.13" javaHome="$APPLICATION_HOME_DIR$/jbr" gradleVersion="8.13" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31IqSmc2BIXDFZhwSTje6dphxN7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="counterWThreads.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4214eb4b-6ca3-4e57-8d11-76506cef0bb4" name="Changes" comment="" />
+      <created>1755221937050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755221937050</updated>
+    </task>
+    <servers />
+  </component>
 </project>
